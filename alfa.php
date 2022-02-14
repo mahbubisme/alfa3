@@ -53,7 +53,7 @@ $header_otp = array(
     "accept-language: id",
     "versionname: 4.0.30",
     "versionnumber: 403016",
-    "devicemodel: Xiaomi Redmi Note 8",
+    "devicemodel: Xiaomi Redmi Note 10",
     "packagename: com.alfamart.alfagift",
     "signature: 6E:41:03:61:A5:09:55:05:B6:84:84:C9:75:0B:89:56:5D:1D:41:C7",
     "latitude: 0.0",
